@@ -1,2 +1,2 @@
-# binspaghetti
+# BinSpaghetti
 A binary/decimal convertor
