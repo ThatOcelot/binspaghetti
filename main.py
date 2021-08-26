@@ -2,7 +2,7 @@
 conv = input("Do you want to convert to binary or decimal? ")
 
 #Used for converting to decimal
-if (conv == "decimal" or "Decimal"):
+if (conv == "decimal"):
 	bin_num = input("Enter a binary number: ")
 	try:
 		dec_num = int(bin_num, 2)
@@ -11,7 +11,7 @@ if (conv == "decimal" or "Decimal"):
 	except ValueError:
 		print("Invalid binary number")
 #Used for converting to binary
-elif (conv == "binary" or "Binary"):
+elif (conv == "binary"):
 	dec_num = int(input("Enter a decimal number: "))
 	bin_num = bin(dec_num)
 	print("The binary value is: " + str(bin_num))
