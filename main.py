@@ -18,6 +18,5 @@ elif (conv == "binary" or "Binary"):
 	print("Done ✓")
 else:
   #Error message
-	print("This type of conversion is not supported")
-        print("Error-Invalid_Input")
+        print("Error: Invalid Input")
 
