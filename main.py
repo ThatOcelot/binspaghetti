@@ -18,4 +18,4 @@ elif (conv == "binary"):
 	print("Done ✓")
 #Error message
 else:
-        print("Error: Invalid Input")
+        print("Error: Invalid_Input")
