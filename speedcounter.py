@@ -5,3 +5,4 @@ while 100>=1:
   num2=(num+num3)
   print(num3)
 
+##its very fast
