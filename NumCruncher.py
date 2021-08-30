@@ -7,4 +7,5 @@ while sol>=num3:
   num2=(num+num3)
   print(num3-1)
 
+  
 ##very speedy
