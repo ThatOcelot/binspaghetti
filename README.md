@@ -6,7 +6,7 @@ Early-stages
 Most recent update: 21.08.25
 
 ## Installation
-1. Install [Python 3](https://www.python.org/)
+1. Install [Python 3](https://www.python.org/).
 2. Download main.py.
 3. Run it in Python.
 
