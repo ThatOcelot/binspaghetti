@@ -1,5 +1,8 @@
 body{
-	background-color: lightblue;
+	background-color: white;
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	text-align: center;
 }
