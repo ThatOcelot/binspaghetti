@@ -6,9 +6,9 @@ Early-stages
 Most recent update: 21.08.25
 
 ## Installation
-1. Install a Python IDE: We recommend JetBrains, Visual Studio Code, or Replit.
+1. Install [Python 3](https://www.python.org/)
 2. Download main.py.
-3. Run it in your IDE.
+3. Run it in Python.
 
 ## Use
 1. When you open you app, you will receive a prompt ("Do you want to convert to binary or decimal?"). Type "binary" or "decimal". (Only type your text lowercase, the program will not accept your wording if any letter is uppercase. This is an issue with Python, not with the code itself.)
