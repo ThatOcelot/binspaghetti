@@ -8,5 +8,5 @@ while sol>=num3:
   print(num3-1)
 
   
-##very speedy
+##very speedy 
 
