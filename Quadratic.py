@@ -1,0 +1,12 @@
+print("Ex: Ax^2+Bx+C=0")
+a=int(input("Enter the A value: "))
+b=int(input("Enter the B value: "))
+c=int(input("Enter the C value: "))
+
+b2=((b**2))
+b1=(b*-1)
+root=(b2-4*a*c)
+divisor=(a*2)
+quad1=((b1-root)/divisor)
+quad2=((b1+root)/divisor)
+print("X: "+str(quad2)+" "+"X: "+str(quad1))
