@@ -1,7 +1,7 @@
 print("Ex: Ax^2+Bx+C=0")
-a=int(input("Enter the A value: "))
-b=int(input("Enter the B value: "))
-c=int(input("Enter the C value: "))
+a=float(input("Enter the A value: "))
+b=float(input("Enter the B value: "))
+c=float(input("Enter the C value: "))
 
 b2=((b**2))
 b1=(b*-1)
