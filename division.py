@@ -1,6 +1,0 @@
-dividend = float(input("Enter a number to be your dividend: "))
-divisor = float(input("Enter a number to be your divisor: "))
-quotient = (dividend / divisor)
-remainder = (dividend % divisor)
-print(int(quotient))
-print(int(remainder))
