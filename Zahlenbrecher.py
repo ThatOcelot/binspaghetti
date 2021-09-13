@@ -1,10 +1,9 @@
-sol = int(input("Enter your number: "))
-num = int("1")
-num2 = int("1")
-num3 = (num * num2)
-print("Computing....")
-while sol >= num3:
-    num3 = (num * num2)
-    num2 = (num + num3)
-    print(num3 - 1)
+def simplifiedCounter():
+  num0=(0)
+  num1=int(input("How many numbers: "))
+  while num1>num0:
+    num1=(num1-1)
+    print(num1)
+
+simplifiedCounter()
 ##very speedy
