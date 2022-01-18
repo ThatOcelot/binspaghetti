@@ -13,17 +13,14 @@ function enable() {
 </head>
 <body>
 
-<form>
-<select id="mySelect">
-  <option>Apple</option>
-  <option>Pear</option>
-  <option>Banana</option>
-  <option>Orange</option>
-</select>
-<br><br>
-<input type="button" onclick="disable()" value="Disable list">
-<input type="button" onclick="enable()" value="Enable list">
-</form>
+  <div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
 
 </body>
 </html>
